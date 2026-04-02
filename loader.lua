@@ -16,5 +16,5 @@ local function LoadModule(url)
     end
 end
 
-LoadModule("")
-LoadModule("")
+LoadModule("https://raw.githubusercontent.com/R1das67/Better-FiveM/refs/heads/main/menu.lua")
+LoadModule("https://raw.githubusercontent.com/R1das67/Better-FiveM/refs/heads/main/main.lua")
